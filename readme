@@ -1,0 +1,1 @@
+DL_test_1Dlstm_pat.py is an example of using deep learning (i.e. tensorflow) and dynamic CT images to self-supervisedly predict IRF.
